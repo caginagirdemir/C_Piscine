@@ -15,4 +15,4 @@
   - Create your own SSH key. Once it is done:
     - Add your public key to your 
  
-asdasd [light green text]{test}
+asdasd [cyan text]{test}
