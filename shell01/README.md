@@ -4,7 +4,7 @@
   - Write a command line that will display the list of groups for which the login, contained int the environment variable FT_USER, is a member. Separated by commas without spaces.
   - Examples :
     - for FT_USER=nours, the result is "god,root,admin,master,nours,bocal" (without quotation marks)
-    ![Image1](pics/exercise_01_1.png)
+    ![Image1](pics/exersice_01_1.png)
     - for FT_USER=daemon, the result is "daemon,bin" (without quotation marks)
 
 
