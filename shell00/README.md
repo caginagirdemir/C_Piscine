@@ -17,5 +17,5 @@ $`\textcolor{green}{\text{$> tar tar -cf exo2.tar \*}}`$
 
 ```diff
 
-@@ text in green (and bold)@@
++text in green
 ```
