@@ -4,7 +4,9 @@
   - Write a command line that will display the list of groups for which the login, contained int the environment variable FT_USER, is a member. Separated by commas without spaces.
   - Examples :
     - for FT_USER=nours, the result is "god,root,admin,master,nours,bocal" (without quotation marks)
+    ![Image1](pics/exercise_01_2.png)
     - for FT_USER=daemon, the result is "daemon,bin" (without quotation marks)
+    ![Image1](pics/exercise_01_2.png)
 
 - Exercise 02 - find_sh
   - Write a command line that searches for all file names that end with ".sh" (without quotation marks) in the current directory and all its sub-directories. It should display only the file name without the .sh.
