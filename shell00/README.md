@@ -16,9 +16,6 @@ $`\textcolor{green}{\text{$> tar tar -cf exo2.tar \*}}`$
     - Add your public key to your 
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+
+@@ text in green (and bold)@@
 ```
