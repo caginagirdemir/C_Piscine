@@ -15,5 +15,10 @@ $`\textcolor{green}{\text{$> tar tar -cf exo2.tar \*}}`$
   - Create your own SSH key. Once it is done:
     - Add your public key to your 
 
-
-<p>Hi here is some text <span>this is red</span>.</p>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
