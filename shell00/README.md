@@ -14,6 +14,8 @@
 - Exercise 03 - SSH Key
   - Create your own SSH key. Once it is done:
     - Add your public key to your 
- 
-<style>H1{color:Blue;}</style>
+
+
+<style>p{color:red;}</style>
+*foo*
 
