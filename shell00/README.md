@@ -6,7 +6,10 @@
 - Exercise 01 - What are attributes anyway?
   - Create a file called testShell00 in your submission directory.
   - Figure out a way for the output to look like this (expect for the "total 1" line)
-  - Once you have achieved the previous step, execute the following command to create the file to be submitted: $> tar -cf testShell00.tar testShell00
+  - Once you have achieved the previous step, execute the following command to create the file to be submitted:
+```diff
++ text in green
+```
 - Exercise 02 - Oh yeah, mooore...
   - Create the following files and directories. Do what's necessary so that when you use the ls -l command in your directory, the output will looks like this:
 
@@ -15,4 +18,4 @@
   - Create your own SSH key. Once it is done:
     - Add your public key to your 
 
-[`NO_COLOR`](https://no-color.org)
+
