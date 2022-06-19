@@ -15,7 +15,4 @@
   - Create your own SSH key. Once it is done:
     - Add your public key to your 
 
-
-<style>p{color:red;}</style>
-*foo*
-
+[`NO_COLOR`](https://no-color.org)
