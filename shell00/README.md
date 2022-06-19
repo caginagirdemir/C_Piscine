@@ -15,7 +15,7 @@ $`\textcolor{green}{\text{$> tar tar -cf exo2.tar \*}}`$
   - Create your own SSH key. Once it is done:
     - Add your public key to your 
 
-```diff
+`diff
 
 +text in green
-```
+`
