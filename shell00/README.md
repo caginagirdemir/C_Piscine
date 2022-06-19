@@ -25,4 +25,21 @@
 - Exercise 05 - GiT commit?
   - Create a shell script that displays the ids of the last 5 commits of your git respository.
 ![Image1](pics/only_z.png)
-  - To test your script, we will use our own enviroment.
+
+
+- Exercise 06 - gitignore
+  - In this exercise, you will write a short shell script last lists all the existing files ignored by your GiT repository. Example:
+  ![Image1](pics/only_z.png)
+  
+- Exercise 07 - diff
+  - Create a file b, so that :
+  ![Image1](pics/only_z.png)
+  ![Image1](pics/only_z.png)
+
+- Exercise 08 - clean
+  - In a file called clean place the command line that will search for all files - in the current directory as well as in its sub-directories - with a name ending by ~, or a name that start and end by #
+  - The command line will show and erase all files found
+  -   Only one command is allowed: no ';' or '&&' or other shenanigans
+
+- Exercise 09 - Illusions, not tricks, Micheal...
+  - Create a magic file called ft_magic that will be formatted appropriately to detect file of 42 file type, built with a "42" string at the 42nd byte.
