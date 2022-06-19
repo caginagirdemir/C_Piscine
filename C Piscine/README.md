@@ -1,6 +1,6 @@
 # C Piscine
 
-Exercise 00 Subject [pdf](c00/C\ /Piscine/en.subject.pdf).
+Exercise 00 Subject [pdf](c00/C%20Piscine/en.subject.pdf).
 
 Exercise 01 Subject [pdf](c01/C\ Piscine/en.subject.pdf).
 
