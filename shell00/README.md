@@ -15,4 +15,6 @@
   - Create your own SSH key. Once it is done:
     - Add your public key to your 
  
-<span style="color:orange;">Word up</span>
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
