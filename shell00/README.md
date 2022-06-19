@@ -17,7 +17,9 @@
 - Exercise 03 - SSH Key
   - Create your own SSH key. Once it is done:
     - Add your public key to your repository, in a file name id_rsa_pub
+    ![Image1](pics/exercise_01_1.png)
     - Update your ssh key on the intranet. This will allow you to push the repository to our git server.
+    ![Image1](pics/exercise_01_2.png)
 
 - Exercise 04 - midLS
   - In a midLS file, place the command line that will list all files and directories in your current directory (except for hidden files or any file that starts by a dot - yes, that includes double-dots), separated by a comma, by order of modification date. Make sure the directory’s names are followed by a slash character.
