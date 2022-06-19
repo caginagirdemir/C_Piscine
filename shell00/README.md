@@ -14,3 +14,6 @@ $`\textcolor{green}{\text{$> tar tar -cf exo2.tar \*}}`$
 - Exercise 03 - SSH Key
   - Create your own SSH key. Once it is done:
     - Add your public key to your 
+
+
+<p>Hi here is some text <span>this is red</span>.</p>
