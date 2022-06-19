@@ -1,4 +1,4 @@
-# Shell 00       <img src="pics/bash.jpg" width="64" height="64" />
+# Shell 00       <img src="pics/bash.jpg" width="64" height="32" />
 
 - Exercise 00 - Only the best know how to display Z
   - Create a file called z that return "Z", followed by a new line, whenever the command cat is used on it.
