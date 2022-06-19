@@ -7,11 +7,11 @@
 - Exercise 01 - What are attributes anyway?
   - Create a file called testShell00 in your submission directory.
   - Figure out a way for the output to look like this (expect for the "total 1" line)
-  ![Image1](pics/only_z.png)
+  ![Image1](pics/testshell00.png)
   - Once you have achieved the previous step, execute the following command to create the file to be submitted: ```$> tar -cf testShell00.tar testShell00```
 - Exercise 02 - Oh yeah, mooore...
   - Create the following files and directories. Do what's necessary so that when you use the ls -l command in your directory, the output will looks like this:
-  ![Image1](pics/only_z.png)
+  ![Image1](pics/exercise_02.png)
   - Once you have done that, run ```$> tar -cf exo2.tar *``` to create the file to be submitted.
 
 - Exercise 03 - SSH Key
@@ -24,17 +24,17 @@
 
 - Exercise 05 - GiT commit?
   - Create a shell script that displays the ids of the last 5 commits of your git respository.
-![Image1](pics/only_z.png)
+![Image1](pics/exercise_05.png)
 
 
 - Exercise 06 - gitignore
   - In this exercise, you will write a short shell script last lists all the existing files ignored by your GiT repository. Example:
-  ![Image1](pics/only_z.png)
+  ![Image1](pics/exercise_06.png)
   
 - Exercise 07 - diff
   - Create a file b, so that :
-  ![Image1](pics/only_z.png)
-  ![Image1](pics/only_z.png)
+  ![Image1](pics/exercise_07_01.png)
+  ![Image1](pics/exercise_07_02.png)
 
 - Exercise 08 - clean
   - In a file called clean place the command line that will search for all files - in the current directory as well as in its sub-directories - with a name ending by ~, or a name that start and end by #
