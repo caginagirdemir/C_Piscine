@@ -15,6 +15,5 @@
   - Create your own SSH key. Once it is done:
     - Add your public key to your 
  
-+ some-text +
-<yellow> red color markdown text</yellow></p>
+<style>H1{color:Blue;}</style>
 
