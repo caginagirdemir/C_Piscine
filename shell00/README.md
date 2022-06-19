@@ -9,7 +9,7 @@
   - Once you have achieved the previous step, execute the following command to create the file to be submitted: $> tar -cf testShell00.tar testShell00
 - Exercise 02 - Oh yeah, mooore...
   - Create the following files and directories. Do what's necessary so that when you use the ls -l command in your directory, the output will looks like this:
-  - Once you have done that, run $> tar tar -cf exo2.tar \* to create the file to be submitted.
+  - Once you have done that, run <span style="color:blue">$> tar tar -cf exo2.tar \* </span> to create the file to be submitted.
 - Exercise 03 - SSH Key
   - Create your own SSH key. Once it is done:
-    - sdfasdf
+    - Add your public key to your 
