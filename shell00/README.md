@@ -26,37 +26,79 @@
     - Once you have achieved the previous step, execute the following command to create the file to be submitted: ```$> tar -cf testShell00.tar testShell00```
 </details>
   
-- Exercise 02 - Oh yeah, mooore...
-  - Create the following files and directories. Do what's necessary so that when you use the ls -l command in your directory, the output will looks like this:
-  ![Image1](pics/exercise_02.png)
-  - Once you have done that, run ```$> tar -cf exo2.tar *``` to create the file to be submitted.
+<details>
+  <summary>Exercise 02</summary>
 
-- Exercise 03 - SSH Key
-  - Create your own SSH key. Once it is done:
-    - Add your public key to your repository, in a file name id_rsa_pub
-    - Update your ssh key on the intranet. This will allow you to push the repository to our git server.
-
-- Exercise 04 - midLS
-  - In a midLS file, place the command line that will list all files and directories in your current directory (except for hidden files or any file that starts by a dot - yes, that includes double-dots), separated by a comma, by order of modification date. Make sure the directory’s names are followed by a slash character.
-
-- Exercise 05 - GiT commit?
-  - Create a shell script that displays the ids of the last 5 commits of your git respository.
-![Image1](pics/exercise_05.png)
-
-
-- Exercise 06 - gitignore
-  - In this exercise, you will write a short shell script last lists all the existing files ignored by your GiT repository. Example:
-  ![Image1](pics/exercise_06.png)
+  - Exercise 02 - Oh yeah, mooore...
   
-- Exercise 07 - diff
-  - Create a file b, so that :
-  ![Image1](pics/exercise_07_01.png)
-  ![Image1](pics/exercise_07_02.png)
+    - Create the following files and directories. Do what's necessary so that when you use the ls -l command in your directory, the output will looks like this:
+    ![Image1](pics/exercise_02.png)
+    - Once you have done that, run ```$> tar -cf exo2.tar *``` to create the file to be submitted.
+  
+</details>
 
-- Exercise 08 - clean
-  - In a file called clean place the command line that will search for all files - in the current directory as well as in its sub-directories - with a name ending by ~, or a name that start and end by #
-  - The command line will show and erase all files found
-  -   Only one command is allowed: no ';' or '&&' or other shenanigans
+<details>
+  <summary>Exercise 03</summary>
 
-- Exercise 09 - Illusions, not tricks, Micheal...
-  - Create a magic file called ft_magic that will be formatted appropriately to detect file of 42 file type, built with a "42" string at the 42nd byte.
+  - Exercise 03 - SSH Key
+  
+    - Create your own SSH key. Once it is done:
+      - Add your public key to your repository, in a file name id_rsa_pub
+      - Update your ssh key on the intranet. This will allow you to push the repository to our git server.
+
+</details>
+
+<details>
+  <summary>Exercise 04</summary>
+
+  - Exercise 04 - midLS
+    - In a midLS file, place the command line that will list all files and directories in your current directory (except for hidden files or any file that starts by a dot - yes, that includes double-dots), separated by a comma, by order of modification date. Make sure the directory’s names are followed by a slash character.
+  
+ </details>
+
+<details>
+  <summary>Exercise 05</summary>
+
+  - Exercise 05 - GiT commit?
+
+    - Create a shell script that displays the ids of the last 5 commits of your git respository.
+  ![Image1](pics/exercise_05.png)
+  
+</details>
+
+<details>
+  <summary>Exercise 06</summary>
+  
+  - Exercise 06 - gitignore
+    - In this exercise, you will write a short shell script last lists all the existing files ignored by your GiT repository. Example:
+    ![Image1](pics/exercise_06.png)
+  
+</details>
+
+<details>
+  <summary>Exercise 07</summary>
+  
+  - Exercise 07 - diff
+    - Create a file b, so that :
+    ![Image1](pics/exercise_07_01.png)
+    ![Image1](pics/exercise_07_02.png)
+  
+ </details>
+ 
+ <details>
+  <summary>Exercise 08</summary>
+
+  - Exercise 08 - clean
+    - In a file called clean place the command line that will search for all files - in the current directory as well as in its sub-directories - with a name ending by ~, or a name that start and end by #
+    - The command line will show and erase all files found
+    -   Only one command is allowed: no ';' or '&&' or other shenanigans
+  
+ </details>
+ 
+ <details>
+  <summary>Exercise 09</summary>
+
+  - Exercise 09 - Illusions, not tricks, Micheal...
+    - Create a magic file called ft_magic that will be formatted appropriately to detect file of 42 file type, built with a "42" string at the 42nd byte.
+  
+ </details>
