@@ -1,8 +1,13 @@
 # Shell 01  <img src="pics/bash.png" width="64" height="30" />
 
 ## Summary
-- Exercise 00 : 
-- Exercise 01 : 
+- Exercise 01 : to understand that user commands 
+- Exercise 02 : to understand how to filter files by their extensions 
+- Exercise 03 : to understand count the files in a certain directory 
+- Exercise 04 : to understand print MAC addresses you computer into terminal 
+- Exercise 05 : to understand push a text into a file without a newline. like printf "asd" > a
+- Exercise 06 : to understand how to pipe with usage of ls command and with awk command according with a condition regarding row number of files
+- Exercise 07 : a complicated process about strings
 
 **Project Instructions**
 
