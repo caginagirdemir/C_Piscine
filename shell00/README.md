@@ -17,11 +17,13 @@
 
 <details>
   <summary>Exercise 01</summary>
-- Exercise 01 - What are attributes anyway?
-  - Create a file called testShell00 in your submission directory.
-  - Figure out a way for the output to look like this (expect for the "total 1" line)
-  ![Image1](pics/testshell00.png)
-  - Once you have achieved the previous step, execute the following command to create the file to be submitted: ```$> tar -cf testShell00.tar testShell00```
+  
+  - Exercise 01 - What are attributes anyway?
+
+    - Create a file called testShell00 in your submission directory.
+    - Figure out a way for the output to look like this (expect for the "total 1" line)
+    ![Image1](pics/testshell00.png)
+    - Once you have achieved the previous step, execute the following command to create the file to be submitted: ```$> tar -cf testShell00.tar testShell00```
 </details>
   
 - Exercise 02 - Oh yeah, mooore...
