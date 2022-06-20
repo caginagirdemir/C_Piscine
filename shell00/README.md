@@ -3,6 +3,14 @@
 ## Summary
 - Exercise 00 : Simply to understand usage of cat command.
 - Exercise 01 : Simply to understand usage of ls command.
+- Exercise 02 : to understand usage of ls command and attributes.
+- Exercise 03 : to understanding how to get SSH Key.
+- Exercise 04 : to understand additional ls command attributes.
+- Exercise 05 : to understand how do you get last commits.
+- Exercise 06 : to understand hidden git files and how do you handle them.
+- Exercise 07 : to learn git diff command.
+- Exercise 08 : to learn (find -type) + exceptions, printf and delete command in bash
+- Exercise 09 : to learn how do you handle a file which has different extension
 
 **Project Instructions**
 
