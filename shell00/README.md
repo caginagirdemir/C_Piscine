@@ -7,20 +7,23 @@
 **Project Instructions**
 
 <details>
-  <summary>Exercise 00: Megaphone</summary>
-
-  - ### Exercise 00: Megaphone
+  <summary>Exercise 00</summary>
 
 - Exercise 00 - Only the best know how to display Z
+  
   - Create a file called z that return "Z", followed by a new line, whenever the command cat is used on it.
   ![Image1](pics/only_z.png)
 </details>
 
+<details>
+  <summary>Exercise 01</summary>
 - Exercise 01 - What are attributes anyway?
   - Create a file called testShell00 in your submission directory.
   - Figure out a way for the output to look like this (expect for the "total 1" line)
   ![Image1](pics/testshell00.png)
   - Once you have achieved the previous step, execute the following command to create the file to be submitted: ```$> tar -cf testShell00.tar testShell00```
+</details>
+  
 - Exercise 02 - Oh yeah, mooore...
   - Create the following files and directories. Do what's necessary so that when you use the ls -l command in your directory, the output will looks like this:
   ![Image1](pics/exercise_02.png)
